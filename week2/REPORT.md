@@ -5,9 +5,12 @@ DESCRIPTION OF APPROACH:
     4)Differences between DICOM and NIfTI
 
 SCREENSHOT OF VISUALISATIONS:
-    ![axial slices](image-1.png)
-    ![saggital slices](image-2.png)
-    ![coronal slices](image-3.png)
+    ![axial slices](https://github.com/user-attachments/assets/15543d32-51ed-4eb9-b715-e624a30a63cb)
+    ![Saggital slices](https://github.com/user-attachments/assets/a9c9e1b9-74d6-4beb-a009-3e82cbf855b2)
+    ![coronal slices](https://github.com/user-attachments/assets/14dcd9cc-2c76-4988-91ce-de9a2c13ff78)
+
+
+
 
 DATASET FOR DICOM:
     https://www.kaggle.com/datasets/ilknuricke/neurohackinginrimages
