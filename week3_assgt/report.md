@@ -1,5 +1,5 @@
 
-# CIFAR-10 Model Comparison Report
+# Comparison Report
 This report summarizes the training results, challenges, and insights from training various deep learning models on the CIFAR-10 dataset.
 
 Challenges Encountered
@@ -17,3 +17,14 @@ SOME INSIGHTS
 Observations:
 - On increasing the layer of ann and increasing no of epochs to a higher number the models accuracy decreased as model became overfit.
 - Used dropouts in cnn to prevent overfitting
+
+  
+| Model         | Accuracy (%) |  Training Time |
+| ------------- | ------------ | -------------  |
+| ANN           | 52%          | Low            |
+| CNN           | 55%          | Low            |
+| LeNet         | 56%          | Low            |
+| VGG16         | 65%          | High           |
+| VGG19         | 62%          | High           |
+| ResNet50      | 89%          | Medium         |
+| ResNet152     | 91%          | Medium         |
