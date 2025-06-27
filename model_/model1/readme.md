@@ -18,11 +18,9 @@
 
       Batch size: 2 (very small coz of memory constraints) 
 
-      Epochs: 40
+      Epochs: 10
 
       Learning rate: 0.0001
-
-      Optimizer: Adam
 
 
    Data Augmentation:
@@ -48,8 +46,9 @@
 
 
 4. Conclusion
-   
-   The MONAI 3D ResNet-based pipeline effectively classifies Alzheimer's disease stages using structural MRI.
+   Highly overfitting model 
+   Model Accuracy: 60% 
+   The MONAI 3D ResNet-based pipeline can effectively classifies Alzheimer's disease stages using structural MRI but due to overfitting accuracy is very low.
 
 
 5. Resources
